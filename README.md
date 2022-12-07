@@ -1,4 +1,4 @@
-# Panorama de COVID-19 en México
+# Panorama del COVID-19 con ciencia de datos
 
 ## Equipo 14
 
