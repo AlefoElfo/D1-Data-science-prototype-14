@@ -2,7 +2,11 @@
 
 ## Presentación
 
-¡Bienvenidos a nuestro trabajo final! Este es nuestro :link: [Prototype](https://github.com/AlefoElfo/D1-Data-science-prototype-14/blob/main/Equipo14_ProyectoFinalPython.ipynb), nuestra entrega final del programa BEDU - Data science.
+¡Bienvenidos a nuestro trabajo final! Este es nuestro
+
+> :link: [**Prototype**](https://github.com/AlefoElfo/D1-Data-science-prototype-14/blob/main/Equipo14_ProyectoFinalPython.ipynb)
+
+La entrega final del programa BEDU - Data science.
 
 **Integrantes** 🏃‍♂️🏋️‍♂️⛹️‍♂️
 
@@ -12,7 +16,7 @@
 |CAMJ|Javier Castillo|[LinkedId]()|[GitHub]()|[Enviar mensaje](https://api.whatsapp.com/send?phone=525537534193)|
 |RUCM|Moisés Rubio|[LinkedId]()|[GitHub]()|[Enviar mensaje](https://api.whatsapp.com/send?phone=50764819801)|
 
-<img src=Graphics/Equipo.png alt="drawing" width="420"/>
+<img src=Graphics/Integrantes.png alt="drawing" width="500"/>
 
 ## Identificación del problema :dart:
 
