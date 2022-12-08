@@ -25,17 +25,17 @@ En el siguiente workbook estamos analizando el comportamiento de la pandemia COV
 
 Investigando nos damos cuenta que hay mucha información sobre este tema, encontramos unos dashboards creados con información de la secretaría de salud.
 
-![Visualización de base de datos](Pictures/p1.png)
+![Visualización de base de datos](Imágenes/p1.png)
 
 Hay mucha información disponible. Algunas preguntas necesitamos verificarlas.
 
-![Letalidad y tiempo de espera](Pictures/p2.png)
+![Letalidad y tiempo de espera](Imágenes/p2.png)
 
 Fuente: :link: [Dashboard con información de COVID-19](https://public.tableau.com/views/COVID-19Mexico/TiempoesperavsLetalidad?%3Aembed=y&%3Aembed=y&%3AshowVizHome=no&%3AshowVizHome=n&%3Adisplay_count=y&%3Adisplay_static_image=y&%3Alanguage=en&%3Amobile=true&%3AapiID=host0)
 
 También encontramos información sobre el comportamiento de compras de alimenos con información adicional que amplían la perspectiva sobre las investigaciones previas.
 
-![Efecto de contingencia](Pictures/p3.png)
+![Efecto de contingencia](Imágenes/p3.png)
 
 Fuente: :link: [Workbook](https://analytics.wfp.org/t/Public/views/MexicoEstudiosobreelefectodelacontigenciaCOVID-19enelconsumoycompradealimentosdeadultosmexicanos/Dashboard?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no&%3Aorigin=viz_share_link)
 
@@ -69,11 +69,7 @@ Estuvimos buscando datos que nos ayudaran a resolver las preguntas planteadas y 
 | --- | :---|
 |**Fuente:** | :link: [datos.gob.mx](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico) |
 |**Respaldo de fuente:** | :link: [Google Drive](https://drive.google.com/drive/folders/1fDQmTgMGcjhA-o7jSx9RMIzdqKQBNlG9?usp=sharing) |
-|**Archivos:** | Disponibles para descarga desde la fuente. Los descriptores y catálogos también están en la carpeta :link: [Datos](...), de este repositorio |
-
-
-
-
+|**Archivos:** | Disponibles para descarga desde la fuente. Los descriptores y catálogos también están en la carpeta :link: [Datos](https://github.com/AlefoElfo/D1-Data-science-prototype-14/tree/main/Datos), de este repositorio |
 
 Notas:
 
