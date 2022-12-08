@@ -1,4 +1,4 @@
-# Panorama de COVID-19 en México
+# Panorama del COVID-19 con ciencia de datos
 
 ## Equipo 14
 
@@ -31,13 +31,13 @@ Hay mucha información disponible. Algunas preguntas necesitamos verificarlas.
 
 ![Letalidad y tiempo de espera](Pictures/p2.png)
 
-Fuente: [Dashboard con información de COVID-19](https://public.tableau.com/views/COVID-19Mexico/TiempoesperavsLetalidad?%3Aembed=y&%3Aembed=y&%3AshowVizHome=no&%3AshowVizHome=n&%3Adisplay_count=y&%3Adisplay_static_image=y&%3Alanguage=en&%3Amobile=true&%3AapiID=host0)
+Fuente: :link: [Dashboard con información de COVID-19](https://public.tableau.com/views/COVID-19Mexico/TiempoesperavsLetalidad?%3Aembed=y&%3Aembed=y&%3AshowVizHome=no&%3AshowVizHome=n&%3Adisplay_count=y&%3Adisplay_static_image=y&%3Alanguage=en&%3Amobile=true&%3AapiID=host0)
 
 También encontramos información sobre el comportamiento de compras de alimenos con información adicional que amplían la perspectiva sobre las investigaciones previas.
 
 ![Efecto de contingencia](Pictures/p3.png)
 
-Fuente: [Workbook](https://analytics.wfp.org/t/Public/views/MexicoEstudiosobreelefectodelacontigenciaCOVID-19enelconsumoycompradealimentosdeadultosmexicanos/Dashboard?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no&%3Aorigin=viz_share_link)
+Fuente: :link: [Workbook](https://analytics.wfp.org/t/Public/views/MexicoEstudiosobreelefectodelacontigenciaCOVID-19enelconsumoycompradealimentosdeadultosmexicanos/Dashboard?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no&%3Aorigin=viz_share_link)
 
 ## Glosario básico
 
@@ -46,7 +46,7 @@ Fuente: [Workbook](https://analytics.wfp.org/t/Public/views/MexicoEstudiosobreel
   Los coronavirus son una familia de virus que causan enfermedades (desde el resfriado común hasta enfermedades respiratorias más graves) y circulan entre humanos y animales.
 
   En este caso, se trata del SARS-COV2. Apareció en China en diciembre del 2019 y provoca una enfermedad llamada COVID-19, que se extendió por el mundo y fue declarada pandemia global por la Organización Mundial de la Salud.
-  [The science of where](https://covid-19-mexico-sigsamx.hub.arcgis.com/)
+  :link: [The science of where](https://covid-19-mexico-sigsamx.hub.arcgis.com/)
 
 - Síntomas:
 
@@ -54,11 +54,11 @@ Fuente: [Workbook](https://analytics.wfp.org/t/Public/views/MexicoEstudiosobreel
 
   Los siguientes síntomas pueden aparecer de 2 a 14 días después de la exposición (según los períodos de incubación del virus MERS-CoV anteriores).
 
-  Tos, fiebre y dificultad para respirar [The science of where](https://covid-19-mexico-sigsamx.hub.arcgis.com/)
+  Tos, fiebre y dificultad para respirar :link: [The science of where](https://covid-19-mexico-sigsamx.hub.arcgis.com/)
 
 - Hospitalizaciones:
 
-  En el Hospital Central Militar se hospitalizaron 4401 pacientes, 35 % derechohabientes, 26 % civiles, 28 % militares en activo y solo 11 %, militares retirados. Predominó el sexo masculino, tanto en los pacientes hospitalizados como en los que fallecieron, el grupo O+ y la ausencia de comorbilidades; entre las comorbilidades que se observaron, las principales fueron el sobrepeso y la diabetes. La mediana de edad de los pacientes hospitalizados fue de 49 años, mientras que 62 años fue la edad de quienes fallecieron; las mujeres mayores de 51 años tuvieron mayor riesgo de fallecer. La tasa de letalidad ajustada fue de 18.5 %; 50 % falleció durante los primeros seis días. [Gaceta médica de México](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-38132021000300246
+  En el Hospital Central Militar se hospitalizaron 4401 pacientes, 35 % derechohabientes, 26 % civiles, 28 % militares en activo y solo 11 %, militares retirados. Predominó el sexo masculino, tanto en los pacientes hospitalizados como en los que fallecieron, el grupo O+ y la ausencia de comorbilidades; entre las comorbilidades que se observaron, las principales fueron el sobrepeso y la diabetes. La mediana de edad de los pacientes hospitalizados fue de 49 años, mientras que 62 años fue la edad de quienes fallecieron; las mujeres mayores de 51 años tuvieron mayor riesgo de fallecer. La tasa de letalidad ajustada fue de 18.5 %; 50 % falleció durante los primeros seis días. :link: [Gaceta médica de México](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-38132021000300246
 )
 
 ## Recolección y carga de datos
@@ -67,8 +67,12 @@ Estuvimos buscando datos que nos ayudaran a resolver las preguntas planteadas y 
 
 |||
 | --- | :---|
-|**Archivos:** | <https://drive.google.com/drive/folders/1fDQmTgMGcjhA-o7jSx9RMIzdqKQBNlG9?usp=sharing> |
-|**Fuente:** | <https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico> |
+|**Fuente:** | :link: [datos.gob.mx](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico) |
+|**Respaldo de fuente:** | :link: [Google Drive](https://drive.google.com/drive/folders/1fDQmTgMGcjhA-o7jSx9RMIzdqKQBNlG9?usp=sharing) |
+|**Archivos:** | Disponibles para descarga desde la fuente. Los descriptores y catálogos también están en la carpeta :link: [Datos](...), de este repositorio |
+
+
+
 
 
 Notas:
