@@ -1,12 +1,20 @@
 # Panorama del COVID-19 con ciencia de datos
 
-## Equipo 14
+## Presentación
 
-- Alef Gama
-- Javier Castillo
-- Moisés Rubio
+¡Bienvenidos a nuestro trabajo final! Este es nuestro :link: [Prototype](https://github.com/AlefoElfo/D1-Data-science-prototype-14/blob/main/Equipo14_ProyectoFinalPython.ipynb), nuestra entrega final del programa BEDU - Data science.
 
-## Identificación del problema
+**Integrantes** 🏃‍♂️🏋️‍♂️⛹️‍♂️
+
+|id|Nombre|LinkedIn|GitHub|WhatsApp|
+|---|---|---|---|---|
+|GASA|Alef Gama|[LinkedId](https://www.linkedin.com/in/alefzain/)|[GitHub](https://github.com/AlefoElfo)|[Enviar mensaje](https://api.whatsapp.com/send?phone=5521199543)|
+|CAMJ|Javier Castillo|[LinkedId]()|[GitHub]()|[Enviar mensaje](https://api.whatsapp.com/send?phone=525537534193)|
+|RUCM|Moisés Rubio|[LinkedId]()|[GitHub]()|[Enviar mensaje](https://api.whatsapp.com/send?phone=50764819801)|
+
+<img src=Graphics/Equipo.png alt="drawing" width="420"/>
+
+## Identificación del problema :dart:
 
 En el siguiente workbook estamos analizando el comportamiento de la pandemia COVID-19, en México, para tratar de resolver algunas dudas  relacionadas con la mortalidad y enfermedad de acuerdo con los datos reportados por el gobierno.
 
@@ -25,17 +33,17 @@ En el siguiente workbook estamos analizando el comportamiento de la pandemia COV
 
 Investigando nos damos cuenta que hay mucha información sobre este tema, encontramos unos dashboards creados con información de la secretaría de salud.
 
-![Visualización de base de datos](Imágenes/p1.png)
+![Visualización de base de datos](Graphics/p1.png)
 
 Hay mucha información disponible. Algunas preguntas necesitamos verificarlas.
 
-![Letalidad y tiempo de espera](Imágenes/p2.png)
+![Letalidad y tiempo de espera](Graphics/p2.png)
 
 Fuente: :link: [Dashboard con información de COVID-19](https://public.tableau.com/views/COVID-19Mexico/TiempoesperavsLetalidad?%3Aembed=y&%3Aembed=y&%3AshowVizHome=no&%3AshowVizHome=n&%3Adisplay_count=y&%3Adisplay_static_image=y&%3Alanguage=en&%3Amobile=true&%3AapiID=host0)
 
 También encontramos información sobre el comportamiento de compras de alimenos con información adicional que amplían la perspectiva sobre las investigaciones previas.
 
-![Efecto de contingencia](Imágenes/p3.png)
+![Efecto de contingencia](Graphics/p3.png)
 
 Fuente: :link: [Workbook](https://analytics.wfp.org/t/Public/views/MexicoEstudiosobreelefectodelacontigenciaCOVID-19enelconsumoycompradealimentosdeadultosmexicanos/Dashboard?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no&%3Aorigin=viz_share_link)
 
@@ -74,4 +82,4 @@ Estuvimos buscando datos que nos ayudaran a resolver las preguntas planteadas y 
 Notas:
 
 - La información de la fuente está actulizada el 2020-04-14
-- Más adelante se importará el dataset directamente desde la fuente
+- Más adelante se importará el dataset directamente desde la fuente.
