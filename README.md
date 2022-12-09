@@ -2,13 +2,17 @@
 
 ## Presentación
 
-¡Bienvenidos a nuestro trabajo final! Este es nuestro
+¡Bienvenidos a nuestro trabajo final! Este es nuestra entrega final del programa BEDU - Data science.
 
-> :link: [**Prototype**](https://github.com/AlefoElfo/D1-Data-science-prototype-14/blob/main/Equipo14_ProyectoFinalPython.ipynb)
+### Notebook del proyecto
 
-La entrega final del programa BEDU - Data science.
+> :link: [**Notebook (Google Colab)**](https://colab.research.google.com/drive/1lOVjCrQj6WXIYUIltd-HJbfb0LCIzpBC?usp=sharing)
 
-**Integrantes** 🏃‍♂️🏋️‍♂️⛹️‍♂️
+> :link: [**Notebook (GitHub)**](https://github.com/AlefoElfo/D1-Data-science-prototype-14/blob/main/Equipo14_ProyectoFinalPython.ipynb)
+
+GitHub limita el tamaño de archivos, así que te recomendamos que abras el notebook desde Google Colab.
+
+### Integrantes 🏃‍♂️🏋️‍♂️⛹️‍♂️
 
 |id|Nombre|LinkedIn|GitHub|WhatsApp|
 |---|---|---|---|---|
