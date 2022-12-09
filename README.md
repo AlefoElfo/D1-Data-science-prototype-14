@@ -16,9 +16,9 @@ GitHub limita el tamaño de archivos, así que te recomendamos que abras el note
 
 |id|Nombre|LinkedIn|GitHub|WhatsApp|
 |---|---|---|---|---|
-|GASA|Alef Gama|[LinkedId](https://www.linkedin.com/in/alefzain/)|[GitHub](https://github.com/AlefoElfo)|[Enviar mensaje](https://api.whatsapp.com/send?phone=5521199543)|
-|CAMJ|Javier Castillo|[LinkedId]()|[GitHub]()|[Enviar mensaje](https://api.whatsapp.com/send?phone=525537534193)|
-|RUCM|Moisés Rubio|[LinkedId]()|[GitHub]()|[Enviar mensaje](https://api.whatsapp.com/send?phone=50764819801)|
+|GASA|Alef Gama|[Linked In](https://www.linkedin.com/in/alefzain/)|[GitHub](https://github.com/AlefoElfo)|[Enviar mensaje](https://api.whatsapp.com/send?phone=5521199543)|
+|CAMJ|Javier Castillo|[Linked In]()|[GitHub]()|[Enviar mensaje](https://api.whatsapp.com/send?phone=525537534193)|
+|RUCM|Moisés Rubio|[Linked In](https://www.linkedin.com/in/moisesrubio/)|[GitHub](https://github.com/MoisesRub)|[Enviar mensaje](https://api.whatsapp.com/send?phone=50764819801)|
 
 <img src=Graphics/Integrantes.png alt="drawing" width="500"/>
 
