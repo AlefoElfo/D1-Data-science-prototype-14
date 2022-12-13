@@ -26,7 +26,7 @@ GitHub limita el tamaño de archivos, así que te recomendamos que abras el note
 
 En el siguiente workbook estamos analizando el comportamiento de la pandemia COVID-19, en México, para tratar de resolver algunas dudas  relacionadas con la mortalidad y enfermedad de acuerdo con los datos reportados por el gobierno.
 
-## Planteamiento de preguntas
+### DUDAS:
 
 - ¿Cuál ha sido la mortalidad del covid en México?
 - ¿Cual es el promedio de días entre la presentación de sintomas y fué ingresado el paciente?
@@ -36,6 +36,10 @@ En el siguiente workbook estamos analizando el comportamiento de la pandemia COV
 - ¿Cuantos días pasa una persona en el hospital despues de ser internada?
 - ¿Cuantos días pasan en que se internaron y murieron?
 - ¿Cuantas personas no fueron internadas y recibieron tratamiento en casa?
+
+### FUMADORES
+Una vez resueltas las preguntas procedemos con una investigación sobre la relación que hay entre el COVID-19 y los fumadores a través de una prueba A/B Test y a través de un árbol de decisiones.
+
 
 ## Investigación previa
 
